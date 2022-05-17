@@ -1,0 +1,10 @@
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\bin\Debug\ClassListCustomer.exe.config
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\bin\Debug\ClassListCustomer.exe
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\bin\Debug\ClassListCustomer.pdb
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.Form1.resources
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.Properties.Resources.resources
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.csproj.GenerateResource.cache
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.exe
+C:\Users\mahir\source\repos\ClassListCustomer\ClassListCustomer\obj\Debug\ClassListCustomer.pdb
